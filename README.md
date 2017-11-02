@@ -1,6 +1,8 @@
 # text_message_rails
 
-A simple gem to send text messages from rails
+A simple gem to send text messages from rails.
+
+*I haven't touched this code for years, so this is a DEAD project right now. You can still use this code as a basic for hacks, but keep in mind it's not maintained anymore !*
 
 ## Installation
 
